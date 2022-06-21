@@ -26,3 +26,5 @@ int main(){
     cout<<productToN(n)<<endl;
     return 0;
 }
+
+//** Submission on GFG : https://practice.geeksforgeeks.org/viewSol.php?subId=b622dcdccae6e32d8ed8b1e8e606839e&pid=703913&user=hardikjhalani2309
